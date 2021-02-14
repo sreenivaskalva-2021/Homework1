@@ -17,9 +17,10 @@ Robinhood’s is attracting its user through various innovative offers, user fri
 •	Providing Crypto trading (other traditional brokerage firms do not offer this)
 •	Faster money transfer into the accounts
 •	Easy to use application; it is designed to avoid overwhelming beginner investors with information
-•	Use of behavioural triggers and rewards – such as Free stock for new accounts, push notifications when there is movement in account holder stock prices, 
+•	Use of behavioural triggers and rewards – such as Free stock for new accounts, push notifications when there is movement in account holder stock prices
+•	By developing components like Clearing house, Robinhood was able to reduce or cut seven fees for its customers
 
-Robinhood is based on 53 technology products. They include Python, React, NGINX, Bootstrap, Git, GitHub, Slack, Confluence, Google Analytics and other technologies. 
+Robinhood is based on 53 technology products. They include  like Python 3, Django/DRF, React JS, Kafka, Airflow, NGINX, Bootstrap, Git, GitHub, Slack, Confluence, Google Analytics and other technologies. They have also invested up front in an automated system and reduce the long-tail cost. 
 
 ## How Robinhood generates revenue?
 
@@ -50,9 +51,6 @@ The following are the other major leaders in US brokerage industry.
 •	TD Ameritrade (Schwab acquired TD Ameritrade)
 •	E-Trade (Morgan Stanley acquired E-Trade)
 •	Charles Schwab
-
-
-
 
 ## Results
 
