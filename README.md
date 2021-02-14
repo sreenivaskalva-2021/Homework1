@@ -1,4 +1,4 @@
-![Robinhood](/images.Robinhoodimage.png)
+![robinhoodimage.jpg](./Robinhoodimage.jpg)
 
 # Case Study – Robinhood, a US Based FinTech Brokerage Company
 
