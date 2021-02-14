@@ -81,19 +81,19 @@ If I were to advise Robinhood, I would suggest that the following products and s
 ---
 [https://www.investopedia.com/terms/p/paymentoforderflow.asp](https://www.investopedia.com/terms/p/paymentoforderflow.asp)
 ---
-•	https://www.investopedia.com/articles/active-trading/020515/how-Robinhood-makes-money.asp
+[https://www.investopedia.com/articles/active-trading/020515/how-Robinhood-makes-money.asp](https://www.investopedia.com/articles/active-trading/020515/how-Robinhood-makes-money.asp)
 ---
-•	http://www.Robinhood.com
+[http://www.Robinhood.com](http://www.Robinhood.com)
 ---
-•	https://www.businessofapps.com/data/Robinhood-statistics/
+[https://www.businessofapps.com/data/Robinhood-statistics/](https://www.businessofapps.com/data/Robinhood-statistics/)
 ---
-•	https://en.wikipedia.org/wiki/Robinhood_(company)
+[https://en.wikipedia.org/wiki/Robinhood_(company)](https://en.wikipedia.org/wiki/Robinhood_(company))
 ---
-•	https://www.nytimes.com/2020/07/08/technology/Robinhood-risky-trading.html
+[https://www.nytimes.com/2020/07/08/technology/Robinhood-risky-trading.html](https://www.nytimes.com/2020/07/08/technology/Robinhood-risky-trading.html)
 ---
-•	https://stackshare.io/Robinhood/Robinhood
+[https://stackshare.io/Robinhood/Robinhood](https://stackshare.io/Robinhood/Robinhood)
 ---
-•	https://www.cnbc.com/2020/06/17/Robinhood-drives-retail-trading-renaissance-during-markets-wild-ride.html
+[https://www.cnbc.com/2020/06/17/Robinhood-drives-retail-trading-renaissance-during-markets-wild-ride.html](https://www.cnbc.com/2020/06/17/Robinhood-drives-retail-trading-renaissance-during-markets-wild-ride.html)
 ---
-•	https://www.cbinsights.com/research/report/how-robinhood-makes-money/
+[https://www.cbinsights.com/research/report/how-robinhood-makes-money/](https://www.cbinsights.com/research/report/how-robinhood-makes-money/)
 ---
