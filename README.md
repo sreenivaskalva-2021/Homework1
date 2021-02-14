@@ -16,7 +16,8 @@ Robinhood’s is attracting its user through various innovative offers, user fri
 •	Providing margin balance of 100% through its Gold memberships
 •	Providing Crypto trading (other traditional brokerage firms do not offer this)
 •	Faster money transfer into the accounts
-•	Easy to use application
+•	Easy to use application; it is designed to avoid overwhelming beginner investors with information
+•	Use of behavioural triggers and rewards – such as Free stock for new accounts, push notifications when there is movement in account holder stock prices, 
 
 Robinhood is based on 53 technology products. They include Python, React, NGINX, Bootstrap, Git, GitHub, Slack, Confluence, Google Analytics and other technologies. 
 
@@ -42,12 +43,16 @@ Robinhood is a US-based financial services company offering stock and crypto bro
 •	Social Media (use of Reddit platforms for individual investors to undertake stock trading)
 •	Mergers and Acquisitions
 
+Robinhood is predominantly competing with legacy retail brokerages that have adopted Robinhood’s core value proposition of commission-free trades. When Robinhood launched in 2013, no other major brokerage firms offered zero-commission trading. The company remained an outlier in this regard until October 2019, when Charles Schwab, E-Trade, and TD Ameritrade all announced they would no longer levy commissions on ETF, options, and stock trading.
 
 The following are the other major leaders in US brokerage industry. 
 •	Fidelity Investments
 •	TD Ameritrade (Schwab acquired TD Ameritrade)
 •	E-Trade (Morgan Stanley acquired E-Trade)
-•	Charles Schwab**
+•	Charles Schwab
+
+
+
 
 ## Results
 
@@ -65,7 +70,7 @@ Based on the above figures, Robinhood can still capture significant market share
 If I were to advise Robinhood, I would suggest that the following products and services be explored to fuel its level of growth.
 
 •	Forex trading through Robo Advisors so investors can take advantage of currency fluctuations, and creating wealth based on advanced algorithms
-•	Robo Trading of Stocks/ETF/Options based on customer’s risk and industry preferences. This will allow new investors to participate in the stock market while they learn and become experienced. This will also assist experienced investors but who are not able to actively participate due to their busy work and personal schedules.
+•	Automated Trading (similar to Wealthfront, Acorns) of Stocks/ETF/Options based on customer’s risk and industry preferences. This will allow new investors to participate in the stock market while they learn and become experienced. This will also assist experienced investors but who are not able to actively participate due to their busy work and personal schedules.
 •	Improve the access to company research so investors can review them prior to undertaking investments. This will establish Robinhood’s credibility and establish it as a responsible brand. A responsible corporate brand attracts more business.
 •	Implement Learning capability so users can have better knowledge and experience. This will establish Robinhood’s credibility and establish it as a responsible brand. A responsible corporate brand attracts more business.
 •	Expand into other geographies such as Australia, New Zealand, Singapore, China, India markets.
@@ -89,4 +94,6 @@ If I were to advise Robinhood, I would suggest that the following products and s
 •	https://stackshare.io/Robinhood/Robinhood
 ---
 •	https://www.cnbc.com/2020/06/17/Robinhood-drives-retail-trading-renaissance-during-markets-wild-ride.html
+---
+•	https://www.cbinsights.com/research/report/how-robinhood-makes-money/
 ---
