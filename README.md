@@ -8,9 +8,9 @@ Robinhood is a private company and has raised a total of $1.5B through 13 fundin
 
 ## Business Activities
 
-Robinhood provides the free-of-charge brokerage services to consumers. Its products include: A) Stock and ETF trading B) Cryptocurrency trading C) Cash Management. Its primary customer base are millennials, and the average age of the customer is 31, and half of its customers had never invested before. Robinhood targeted user base is 68M, and with an average portfolio size of $1000-5000/user, it is targeting to manage assets of $75B - $150B. 
+Robinhood provides the free-of-charge brokerage services to consumers. Its products include: A) Stock and ETF trading B) Cryptocurrency trading C) Cash Management. Its primary customer base are millennials with an average customer age of 31, and half of its customers had never invested before. Robinhood targeted user base is 68M, and with an average portfolio size of $1000-5000/user, it is targeting to manage assets of $75B - $150B. 
 
-Robinhood’s is attracting its user through various innovative offers and combination of new technology.
+Robinhood’s is attracting its user through various innovative offers, user friendly intergace, and based on new technology.
 
 •	Commission free investing in stocks/ETFs
 •	Providing margin balance of 100% through its Gold memberships
@@ -20,6 +20,13 @@ Robinhood’s is attracting its user through various innovative offers and combi
 
 Robinhood is based on 53 technology products. They include Python, React, NGINX, Bootstrap, Git, GitHub, Slack, Confluence, Google Analytics and other technologies. 
 
+## How Robinhood generates revenue?
+
+Robinhood does not charge any trading fee when its customers execute any trades. However, it generates revenue through the following methods:
+
+•	Payment for order flow (PFOF) – This is the compensation and benefit a brokerage firm like Robinhood receives for directing customer orders to market makers for trade execution. The brokerage firm receives a small payment, usually fractions of a penny per share, as compensation for directing the order. Market makers are typically large firms that specialize in a set number of stocks and options, maintaining an inventory of shares or contracts and offering them both to buyers and sellers. Market makers are compensated based on the spread between the bid and ask prices. 
+•	Subscription model for Margin trading – Robinhood Gold package subscription of $5 allows customers to undertake margin trading, and the margin amount is charged at 2.5% APR. 
+•	Earn interests from customer cash and stocks, just like a bank collects interest on cash deposits
 
 ## Landscape
 
