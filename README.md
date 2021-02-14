@@ -1,3 +1,5 @@
+![Robinhood](./Robinhoodimage.jpg)
+
 # Case Study – Robinhood, a US Based FinTech Brokerage Company
 
 ## Overview and Origin
