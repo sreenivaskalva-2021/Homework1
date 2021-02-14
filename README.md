@@ -77,8 +77,8 @@ If I were to advise Robinhood, I would suggest that the following products and s
 
 ## References:
 
-•	https://econsultancy.com/how-fintech-brokerage-firm-Robinhood-built-a-billion-dollar-business/
---- 
+[1](https://econsultancy.com/how-fintech-brokerage-firm-Robinhood-built-a-billion-dollar-business/ )
+
 •	https://www.investopedia.com/terms/p/paymentoforderflow.asp
 ---
 •	https://www.investopedia.com/articles/active-trading/020515/how-Robinhood-makes-money.asp
